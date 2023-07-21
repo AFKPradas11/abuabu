@@ -1,0 +1,20 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "Place Català",
+      "sources": [
+        "https://raw.githubusercontent.com/AFKPradas11/abuabu/main/place_plantilla1.png"
+      ],
+      "x": 425,
+      "y": 130
+    }
+  ],
+    "whitelist": [
+    {
+      "name": "Argentine",
+      "url": "https://rentry.co/PlaceArg/raw"
+    }
+  ],
+  "blacklist": []
+}
