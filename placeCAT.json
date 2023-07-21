@@ -1,0 +1,20 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "PlaceCAT",
+      "sources": [
+        "https://github.com/AFKPradas11/abuabu/blob/main/place_plantilla1.png?raw=true"
+      ],
+      "x": 924,
+      "y": 629
+    }
+  ],
+    "whitelist": [
+    {
+      "name": "Argentine",
+      "url": "https://rentry.co/PlaceArg/raw"
+    }
+  ],
+  "blacklist": []
+}
