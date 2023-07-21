@@ -12,8 +12,8 @@
   ],
     "whitelist": [
     {
-      "name": "Argentine",
-      "url": "https://rentry.co/PlaceArg/raw"
+      "name": "r/catalunya",
+      "url": "https://raw.githubusercontent.com/Galet13/rplace-Catalunya/main/plantilla.json"
     }
   ],
   "blacklist": []
