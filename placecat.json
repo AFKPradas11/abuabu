@@ -1,13 +1,13 @@
 {
-  "contact": "https://disboard.org/fr/server/959141965532897340",
+  "contact": "",
   "templates": [
     {
       "name": "PlaceCAT",
       "sources": [
         "https://github.com/AFKPradas11/abuabu/blob/main/place_plantilla1.png?raw=true"
       ],
-      "x": 425,
-      "y": 130
+      "x": 925,
+      "y": 630
     }
   ],
     "whitelist": [
